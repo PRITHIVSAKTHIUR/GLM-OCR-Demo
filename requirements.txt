@@ -14,5 +14,4 @@ hf_xet
 spaces
 pillow
 gradio #@gradio6
-
 av
