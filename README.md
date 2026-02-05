@@ -39,7 +39,7 @@
    ```
    **requirements.txt content:**
    ```
-   flash-attn @ https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+   flash-attn @ https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl #skippable
    git+https://github.com/huggingface/transformers.git
    git+https://github.com/huggingface/accelerate.git
    git+https://github.com/huggingface/peft.git
