@@ -271,7 +271,6 @@ body, .gradio-container {
 .primary {
     border-radius: 8px !important;
     font-weight: 600 !important;
-    text-transform: uppercase !important;
     letter-spacing: 0.05em !important;
     transition: all 0.3s ease !important;
 }
@@ -429,7 +428,7 @@ with gr.Blocks() as demo:
                 )
 
             with gr.Row():
-                btn = gr.Button("Recognize", variant="primary")
+                btn = gr.Button("Perform OCR", variant="primary")
             
             gr.Examples(
                 examples=["examples/1.jpg", "examples/4.jpg", "examples/5.webp", "examples/2.jpg", "examples/3.jpg"],
