@@ -2,9 +2,7 @@
 
 > A Gradio-based demonstration for the zai-org/GLM-OCR multimodal OCR model. Supports text, formula, and table recognition from uploaded images, with outputs in plain text and markdown formats. Features custom HotPink theme, GPU acceleration, image orientation handling (EXIF transpose), and temporary file management for processing.
 
-<img width="1918" height="1150" alt="Screenshot 2026-02-05 at 13-40-54 GLM OCR Demo - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/7ff49bca-b85d-42f4-a5a9-e889f019625a" />
-<img width="1918" height="1952" alt="Screenshot 2026-02-05 at 13-41-17 GLM OCR Demo - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/e306b0dc-4b78-4ced-b6f2-e303c10b9a7d" />
-
+<img width="1754" height="1360" alt="screencapture-huggingface-co-spaces-prithivMLmods-GLM-OCR-Demo-2026-05-13-18_25_14" src="https://github.com/user-attachments/assets/4397395d-4bea-4380-abd4-63c4c2482ea3" />
 
 ## Features
 - **Recognition Types**: Text Recognition, Formula Recognition, Table Recognition with predefined prompts.
